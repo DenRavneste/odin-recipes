@@ -1,0 +1,20 @@
+body {
+	background-color: #CC0000;
+	font-family: HeavyData, "Times New Roman", Verdana, serif;
+	font-size: 20px;
+}
+
+.text {
+	color: #FFD700;
+	background-color: black;
+	padding: 8px;
+}
+
+.list {
+	padding: 8px;
+}
+
+h1 {
+	text-align: center;
+	padding: 8px;
+}
